@@ -3,5 +3,7 @@
 
  ``将psd设计稿精确还原为html静态页面``<br>
     只用到``html,css``来布局<br>
+     360导航列表使用css sprite来做背景定位
 
  [静态页面展示](https://cyanar.github.io/Static-webpage-project/index.html)
+ [360导航列表](https://cyanar.github.io/turn-psd-into-webpage/表格列表.html)
